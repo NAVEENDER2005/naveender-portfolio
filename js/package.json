@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.7.1",
+    "owl.carousel": "^2.3.4",
+    "typed.js": "^2.1.0",
+    "wow.js": "^1.2.2"
+  }
+}
